@@ -1,0 +1,152 @@
+{
+  "bookings": [
+    {
+      "username": "Kapadokia Titus",
+      "arrivalDate": "20th March 2022",
+      "depature": "30th August",
+      "provider": "Mr. C Beverly Hills",
+      "orderId": 93,
+      "numberOfRooms": "2",
+      "numberOfpeople": "4",
+      "id": 12
+    },
+    {
+      "username": "Tim Wanyonyi",
+      "arrivalDate": "20th March 2022",
+      "depature": "30th August",
+      "provider": "Mr. C Beverly Hills",
+      "orderId": 38,
+      "numberOfRooms": "2",
+      "numberOfpeople": "4",
+      "id": 13
+    },
+    {
+      "username": "Brian Ryoba",
+      "arrivalDate": "25th August",
+      "depature": "30th August",
+      "provider": "Mr. C Beverly Hills",
+      "orderId": 28,
+      "numberOfRooms": "34",
+      "numberOfpeople": "23",
+      "id": 15
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Mr. C Beverly Hills",
+      "price": 4000,
+      "image": "images/one.jpg",
+      "description": "At your disposal, from a traditional European experience to modern day living with panoramic views of Beverly Hills and Los Angeles.",
+      "ammenities": [
+        {
+          "id": 1,
+          "item": "3 persons",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 2,
+          "item": "Free Wi-Fi",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 3,
+          "item": "Kitchen",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 4,
+          "item": "Bathroom",
+          "image": "./assets/coder-dog.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ikador Luxury Boutique Hotel & Spa",
+      "price": 6000,
+      "image": "images/two.jpg",
+      "description": "Welcome to Ikador, a place of exclusive privacy and timeless elegance.",
+      "ammenities": [
+        {
+          "id": 1,
+          "item": "3 persons",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 2,
+          "item": "Free Wi-Fi",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 3,
+          "item": "Kitchen",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 4,
+          "item": "Bathroom",
+          "image": "./assets/coder-dog.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gran Hotel Inglés",
+      "price": 24000,
+      "image": "images/three.jpg",
+      "description": "Centrally located historic hotel built in 1886, reopens following a restoration project that places it in the luxury category.",
+      "ammenities": [
+        {
+          "id": 1,
+          "item": "3 persons",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 2,
+          "item": "Free Wi-Fi",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 3,
+          "item": "Kitchen",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 4,
+          "item": "Bathroom",
+          "image": "./assets/coder-dog.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pestana Palace Lisboa - Hotel & National Monument",
+      "price": 12000,
+      "image": "images/one.jpg",
+      "description": "19th century palace declared a National Monument in the heart of Lisbon.",
+      "ammenities": [
+        {
+          "id": 1,
+          "item": "3 persons",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 2,
+          "item": "Free Wi-Fi",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 3,
+          "item": "Kitchen",
+          "image": "./assets/coder-dog.png"
+        },
+        {
+          "id": 4,
+          "item": "Bathroom",
+          "image": "./assets/coder-dog.png"
+        }
+      ]
+    }
+  ]
+}
